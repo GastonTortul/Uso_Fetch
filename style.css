@@ -1,0 +1,21 @@
+#container{
+  height: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: beige;
+}
+
+.card{
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: 10px;
+  background-color: cadetblue;
+  border: 5px solid black;
+  border-radius: 10px;
+}
+
+.nombre_card{
+  font-weight: bolder;
+  font-size: 20px;
+}
